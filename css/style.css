@@ -1,3 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
+.readText {
+	font-size: 36px;
+	line-height: 1em;
+	text-align: center;
+	padding: 60px 0px;
+}
+
+
